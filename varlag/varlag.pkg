@@ -1,4 +1,20 @@
-D 'ncointtest': Non-cointegration test between two time series in the frequency domain, as in Souza et al (2018) Use ncointtest With STATA 19
+D 'varlag': Statistics to determine the appropriate lag length in VARs, ECMs Use varlag With STATA 19
 D
-F ncointtest.ado
-F ncointtest.sthlp
+_gstdn.ado
+bgtest.ado
+bgtest.hlp
+bpagan.ado
+bpagan.hlp
+omninorm.ado
+omninorm.hlp
+omninorm7.ado
+omninorm7.hlp
+varlag.ado
+varlag.hlp
+vec_p.ado
+vecar.ado
+vecar.hlp
+vececm.ado
+vececm.hlp
+wntstmvq.ado
+wntstmvq.hlp
