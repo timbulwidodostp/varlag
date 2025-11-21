@@ -1,20 +1,20 @@
 D 'varlag': Statistics to determine the appropriate lag length in VARs, ECMs Use varlag With STATA 19
 D
-_gstdn.ado
-bgtest.ado
-bgtest.hlp
-bpagan.ado
-bpagan.hlp
-omninorm.ado
-omninorm.hlp
-omninorm7.ado
-omninorm7.hlp
-varlag.ado
-varlag.hlp
-vec_p.ado
-vecar.ado
-vecar.hlp
-vececm.ado
-vececm.hlp
-wntstmvq.ado
-wntstmvq.hlp
+F _gstdn.ado
+F bgtest.ado
+F bgtest.hlp
+F bpagan.ado
+F bpagan.hlp
+F omninorm.ado
+F omninorm.hlp
+F omninorm7.ado
+F omninorm7.hlp
+F varlag.ado
+F varlag.hlp
+F vec_p.ado
+F vecar.ado
+F vecar.hlp
+F vececm.ado
+F vececm.hlp
+F wntstmvq.ado
+F wntstmvq.hlp
